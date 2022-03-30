@@ -16,8 +16,9 @@
     text-align: center;
 }
 
-.buttontHomeCategory {
+.buttonHomeCategory {
     font-size: 250%;
+    /* border: none; */
 }
 
 .colHome {
