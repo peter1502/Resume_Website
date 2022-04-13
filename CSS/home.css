@@ -4,15 +4,20 @@
     width: 100%;
     height: 100%;
     background-size: cover;
-    background-repeat:   no-repeat;
+    background-repeat: no-repeat;
     background-position: center center;
     position: fixed;
     z-index: -1;
 }
 
-.homePageTitle {
-    padding-top: 4em;
+.homePageTitleWelcome {
+    padding-top: 3em;
     font-size: 500%;
+    text-align: center;
+}
+
+.homePageTitle {
+    font-size: 300%;
     text-align: center;
 }
 
